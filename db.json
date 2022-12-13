@@ -1,0 +1,56 @@
+{
+    "users": [
+      {
+        "id":1,
+        "name": "admin",
+        "age": 18,
+        "email": "gtatterton0@ehow.com"
+      },
+      {
+        "id":2,
+        "name": "demo user",
+        "age": 53,
+        "email": "gnewbatt1@un.org"
+      }
+    ],
+    "home":[
+      {
+        "id":"brush1",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-006Highlighter.jpg?v=1627660002",
+        "title":"Blend Trend Face Brush - 006 Highlighter",
+        "price":"399",
+        "rating":"4.7(23)",
+        "cat":"brushes",
+        "qnty": 0,
+        "subcat":"facebrush"
+        }
+    ],
+    "cart":[
+      
+    ],
+    "wish":[],
+    "package":[ 
+      {
+      "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_6f55bcac-3e42-4253-88ee-cec0fa43c62a.jpg?v=1645608270",
+      "title": "Matte Attack Transferproof Lipstick",
+      "price": "699",
+      "rating": "4.7",
+      "cat": "makeup",
+      "qnty": 0,
+      "subcat": "eyemakeup",
+      "id": "m1"
+    }
+  ],
+    "blog":[
+      {
+        "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-charcoal-patrol-bubble-mask-12775750500435.jpg?v=1644399394",
+        "title": "Charcoal Patrol Bubble Mask",
+        "price": "149",
+         "qnty": 0,
+         "cat": "skincare",
+        "rating": "4.9",
+        "id": 1
+      }
+    
+  ]
+  }
