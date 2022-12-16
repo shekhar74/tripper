@@ -55,7 +55,7 @@
         "https://cdn1.tripoto.com/media/filter/tst/img/1745358/Image/1643281749_card_8.jpg",
         "https://cdn1.tripoto.com/media/filter/tst/img/1745358/Image/1643281767_card_9.jpg"]
       }],
-      "beaches":[
+      "beaches":
         {
            "twelve" : [
             {
@@ -203,8 +203,8 @@
               "title": "Your Ultimate Bali Travel Guide"
             }
           ]
-        }],
-        "mountain":[
+        },
+        "mountain":
           {
             "nine" : [
               {
@@ -377,6 +377,6 @@
               "title": "Bungee Jumping Over Zanskar River, Ladakh"
             }
           ]
-         }]
+         }
        }
   }
